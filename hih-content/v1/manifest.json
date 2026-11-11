@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updated": "2026-11-11T02:17:59Z",
+  "files": [
+    {
+      "name": "bg_title.png",
+      "sha256": "1901a49b860687b8515382ce9d887e1222affd558363245170ac354cdd5434c4",
+      "size": 85417
+    },
+    {
+      "name": "logo_title.png",
+      "sha256": "51303cd9df282222320c384cb8ce5c42f760ff0d49520cda5283c8c6bd054a38",
+      "size": 324108
+    },
+    {
+      "name": "ui_button.png",
+      "sha256": "f7995337a180a20743444ab9b42ba17cfdcbc909d6d26060981da3642b865935",
+      "size": 4817
+    },
+    {
+      "name": "ui_parchment.png",
+      "sha256": "56859dbf44afb1329705877d31239375b96a3adc4e1a247f516a209c8431d5f4",
+      "size": 1510275
+    },
+    {
+      "name": "help_ko.txt",
+      "sha256": "e17836b7f10490bb16ee2904d197a9d116977eb37aaf93959d2c2e8f1cf6a102",
+      "size": 4260
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+<size=58><b><color=#d9a441>◆</color> <color=#7cc4d0>영웅의 이동</color></b></size>
+<color=#d9a441>•</color> 지도는 <b><color=#f2c27a>거점</color></b>과 그 사이의 <b><color=#f2c27a>길</color></b>로 이루어져 있습니다.
+<color=#d9a441>•</color> 가고 싶은 거점을 <b><color=#f2c27a>한 번 누르면</color></b> 경로와 행군력이 보이고, <b><color=#f2c27a>한 번 더 누르면</color></b> 이동합니다.
+<color=#d9a441>•</color> 영웅은 매 턴 <b><color=#f2c27a>행군력 3</color></b>을 받습니다. 평지 길은 <b>1</b>, 산길·늪은 <b>2</b>가 듭니다.
+<color=#d9a441>•</color> 길 위에서는 멈출 수 없습니다. 턴은 항상 거점에서 끝납니다.
+<color=#d9a441>•</color> <b><color=#7cc4d0>바닷길</color></b>은 해안 거점에서 배를 타야 지날 수 있습니다.
+<color=#d9a441>•</color> <b><color=#c49ae6>무지개 다리</color></b>는 멀리 떨어진 거점으로 순간 이동합니다.
+<color=#d9a441>•</color> 보이지 않는 <b><color=#f2c27a>숨은 거점</color></b>은 근처 망루에 가면 드러납니다.
+<color=#b09a76><i>영웅마다 탈것이 달라요. 아탈란테는 행군력 +2, 토르의 염소 수레는 산길도 1.</i></color>
+
+<size=58><b><color=#d9a441>◆</color> <color=#9ad46e>승리</color></b></size>
+<color=#d9a441>•</color> <b><color=#9ad46e>적 본진을 점령</color></b>하면 승리합니다.
+<color=#d9a441>•</color> 시간 초과 때 <b><color=#f2c27a>점수가 더 높아도</color></b> 승리합니다.
+<color=#d9a441>•</color> 보상: 명성, 시대 랭크 <b><color=#9ad46e>+20</color></b> (별 3개면 <b><color=#9ad46e>+5</color></b> 추가)
+
+<size=58><b><color=#d9a441>◆</color> <color=#ec7a62>실패</color></b></size>
+<color=#d9a441>•</color> <b><color=#ec7a62>내 본진을 빼앗기면</color></b> 패배합니다.
+<color=#d9a441>•</color> 영웅이 쓰러지면 군대를 잃고 <b><color=#f2c27a>2턴 뒤 본진에서 다시 일어납니다.</color></b>
+<color=#d9a441>•</color> 패배: 시대 랭크 <b><color=#ec7a62>−15</color></b>. 명성은 쌓은 만큼 받습니다.
+<color=#d9a441>•</color> 한 번 오른 시대 아래로는 떨어지지 않습니다.
+
+<size=58><b><color=#d9a441>◆</color> <color=#aea2ee>시간 초과</color></b></size>
+<color=#d9a441>•</color> 한 판은 <b><color=#aea2ee>40턴</color></b>(달 주기 다섯 번)까지. 35턴부터 남은 턴이 표시됩니다.
+<color=#d9a441>•</color> 40턴이 끝나면 <b><color=#f2c27a>점령 거점 + 남은 군대 + 모은 유물</color></b> 점수를 비교합니다.
+     <color=#9ad46e><b>점수 우세</b> → 승리</color>
+     <color=#b09a76><b>차이 10% 이내</b> → 무승부 (랭크 +2)</color>
+     <color=#ec7a62><b>점수 열세</b> → 패배</color>
+
+<size=58><b><color=#d9a441>◆</color> <color=#d2bea0>기권</color></b></size>
+<color=#d9a441>•</color> 메뉴 → <b><color=#f2c27a>기권</color></b> → 한 번 더 확인하면 판이 끝납니다.
+<color=#d9a441>•</color> 기권은 <b><color=#ec7a62>패배로 처리</color></b>됩니다 (랭크 −15).
+<color=#d9a441>•</color> 인터넷이 끊긴 것은 기권이 아닙니다. 그대로 계속하면 됩니다.
+<color=#d9a441>•</color> 7일 동안 이어하지 않은 판은 "중단된 판"으로 정리됩니다.
+
+<size=58><b><color=#d9a441>◆</color> <color=#ffb14a>명성 2배 받기</color></b></size>
+<color=#d9a441>•</color> 판이 끝나면 결과 화면의 <b><color=#ffb14a>"광고 보고 명성 2배"</color></b> 버튼을 누르세요. 승리·무승부일 때 나옵니다.
+<color=#d9a441>•</color> 패배했을 때는 <b><color=#ffb14a>"광고 보고 위로 보상 받기"</color></b>로 나옵니다. 효과는 똑같이 명성 2배입니다.
+<color=#d9a441>•</color> 하루 <b><color=#ffb14a>3번</color></b>까지.
+<color=#d9a441>•</color> 인터넷이 끊겨 광고가 안 열리면 횟수는 줄지 않고, <b><color=#f2c27a>24시간 동안 보관</color></b>됩니다.
+<color=#d9a441>•</color> <b><color=#ffb14a>시작 영웅 팩</color></b>(광고 제거)이 있으면 광고 없이 바로 2배.
+<color=#d9a441>•</color> 명성은 영웅 열전·시작 스킬·칭호를 여는 데 쓰입니다.
