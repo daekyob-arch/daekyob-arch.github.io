@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updated": "2026-11-12T05:10:39Z",
+  "version": 3,
+  "updated": "2026-11-12T05:29:12Z",
   "files": [
     {
       "name": "bg_title.png",
@@ -24,8 +24,8 @@
     },
     {
       "name": "help_ko.txt",
-      "sha256": "c504b090602e74477e6d7f1bb143aabec4a19f04bf6e977d28d113212f462389",
-      "size": 5295
+      "sha256": "dc320d42f0d6e94db63658e2f44a66dd46e012c367fc69e4efcbca09c21aa2dc",
+      "size": 5849
     }
   ]
 }
