@@ -9,13 +9,13 @@
 <color=#b09a76><i>영웅마다 탈것이 달라요. 아탈란테는 행군력 +2, 토르의 염소 수레는 산길도 1.</i></color>
 
 <size=58><b><color=#d9a441>◆</color> <color=#9ad46e>승리</color></b></size>
-<color=#d9a441>•</color> <b><color=#9ad46e>적 본진을 점령</color></b>하면 승리합니다.
+<color=#d9a441>•</color> <b><color=#9ad46e>적 본성을 점령</color></b>하면 승리합니다.
 <color=#d9a441>•</color> 시간 초과 때 <b><color=#f2c27a>점수가 더 높아도</color></b> 승리합니다.
 <color=#d9a441>•</color> 보상: 명성, 시대 랭크 <b><color=#9ad46e>+20</color></b> (별 3개면 <b><color=#9ad46e>+5</color></b> 추가)
 
 <size=58><b><color=#d9a441>◆</color> <color=#ec7a62>실패</color></b></size>
-<color=#d9a441>•</color> <b><color=#ec7a62>내 본진을 빼앗기면</color></b> 패배합니다.
-<color=#d9a441>•</color> 영웅이 쓰러지면 군대를 잃고 <b><color=#f2c27a>2턴 뒤 본진에서 다시 일어납니다.</color></b>
+<color=#d9a441>•</color> <b><color=#ec7a62>내 본성을 빼앗기면</color></b> 패배합니다.
+<color=#d9a441>•</color> 영웅이 쓰러지면 군대를 잃고 <b><color=#f2c27a>2턴 뒤 본성에서 다시 일어납니다.</color></b>
 <color=#d9a441>•</color> 패배: 시대 랭크 <b><color=#ec7a62>−15</color></b>. 명성은 쌓은 만큼 받습니다.
 <color=#d9a441>•</color> 한 번 오른 시대 아래로는 떨어지지 않습니다.
 
@@ -39,3 +39,13 @@
 <color=#d9a441>•</color> 인터넷이 끊겨 광고가 안 열리면 횟수는 줄지 않고, <b><color=#f2c27a>24시간 동안 보관</color></b>됩니다.
 <color=#d9a441>•</color> <b><color=#ffb14a>시작 영웅 팩</color></b>(광고 제거)이 있으면 광고 없이 바로 2배.
 <color=#d9a441>•</color> 명성은 영웅 열전·시작 스킬·칭호를 여는 데 쓰입니다.
+
+<size=58><b><color=#d9a441>◆</color> <color=#ff9a4a>신들의 황혼</color></b></size>
+<color=#d9a441>•</color> <b><color=#f2c27a>17턴 · 25턴 · 33턴</color></b>에 황혼이 깊어집니다.
+<color=#d9a441>•</color> 그때마다 금 수입과 병사 집결이 <b><color=#ff9a4a>2배 → 3배 → 4배</color></b>가 됩니다.
+<color=#d9a441>•</color> 가운데 <b><color=#f2c27a>신화 무대·유적의 수호자</color></b>도 조금씩 약해집니다. 막바지 결전을 준비하세요.
+
+<size=58><b><color=#d9a441>◆</color> <color=#7cc4d0>본성</color></b></size>
+<color=#d9a441>•</color> 본성에서 병사를 모으고 건물을 짓습니다. 할 일이 있으면 <b><color=#ec7a62>본성 버튼에 !</color></b>가 뜹니다.
+<color=#d9a441>•</color> <b><color=#f2c27a>한 번에 처리</color></b>를 누르면 짓기·모집·수비대 합류를 한꺼번에 합니다.
+<color=#d9a441>•</color> 전투 전 <b><color=#f2c27a>공략 조언</color></b>에서 무엇이 부족한지 알려 줍니다.
