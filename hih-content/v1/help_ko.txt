@@ -52,5 +52,5 @@
 
 <size=58><b><color=#d9a441>◆</color> <color=#c49ae6>원군 소집</color></b></size>
 <color=#d9a441>•</color> 내 쪽 땅을 신화 무대만 빼고 <b><color=#f2c27a>모두 차지하면 다음 턴부터</color></b> 열립니다.
-<color=#d9a441>•</color> 신화 무대 앞 <b><color=#f2c27a>내 쪽 제단</color></b>에서 부르면 본성 병력과 <b><color=#c49ae6>조력자 영웅</color></b>이 합류합니다.
+<color=#d9a441>•</color> 신화 무대 앞 <b><color=#f2c27a>내 쪽 제단</color></b>에서 <b><color=#c49ae6>같은 문명의 영웅 한 명</color></b>을 부르면 본성 병력을 이끌고 합류합니다. 그 영웅은 제단을 지킵니다.
 <color=#d9a441>•</color> 한 판에 <b><color=#ec7a62>한 번</color></b>. 부르면 그 턴의 행군력을 모두 씁니다.
